@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the article below."
+title: "NBS treescapes reverse-logic analysis: companion repository"
+authors:
+  - family-names: Pittaway
+    given-names: Timothy
+    orcid: "https://orcid.org/0000-0002-9792-0932"
+license: CC-BY-4.0
+repository-code: "https://github.com/timothypittaway/nbs-treescapes-reverse-logic"
+preferred-citation:
+  type: article
+  title: "From Community Benefits to Vulnerabilities: Reverse-Logic Analysis of Nature-Based Solution Treescapes Across Europe"
+  authors:
+    - family-names: Pittaway
+      given-names: Timothy
+      orcid: "https://orcid.org/0000-0002-9792-0932"
+    - family-names: Townsend
+      given-names: Leanne
+    - family-names: Hardy
+      given-names: Claire
+  journal: "International Journal of Environmental Research and Public Health"
+  volume: 23
+  issue: 6
+  start: 691
+  year: 2026
+  doi: "10.3390/ijerph23060691"

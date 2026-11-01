@@ -1,0 +1,12 @@
+region,countries,cases_found
+Alpine,"Austria; Bulgaria; Germany; Spain; Finland; France; Italy; Poland; Romania; Sweden; Slovenia; Slovakia; Ukraine; Russia; Georgia; Armenia",yes
+Arctic,"Iceland; Norway; Russia",yes
+Anatolian,"Turkey",no
+Atlantic,"Belgium; Germany; Denmark; Spain; France; Ireland; Portugal; Netherlands; United Kingdom",yes
+Black Sea,"Bulgaria; Romania; Turkey; Georgia",yes
+Boreal,"Estonia; Finland; Latvia; Lithuania; Sweden; Belarus; Russia",yes
+Continental,"Austria; Belgium; Bulgaria; Czech Republic; Germany; Denmark; France; Italy; Luxembourg; Poland; Romania; Sweden; Slovenia; Belarus; Ukraine; Russia; Moldova; Serbia",yes
+Macaronesian,"Spain; Portugal",no
+Mediterranean,"Cyprus; Spain; France; Greece; Italy; Malta; Portugal; Turkey",yes
+Pannonian,"Czech Republic; Hungary; Romania; Serbia; Slovakia; Ukraine",yes
+Steppic,"Romania; Moldova; Ukraine; Russia",no
